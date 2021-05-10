@@ -33,4 +33,4 @@ Et enfin, une fois cette opération finie, on peut supprimer les quatres fonctio
 
 Le code permet d'afficher les propriétés des éléments 'root' de Windows
 
-L'URL qui permet de télécharger le document ayant pour énoncé de faire la documentation ce trouve dans la partie "code.vba"
+On peut retrouver une URL permettant de télécharger le document contenant une documentation.
